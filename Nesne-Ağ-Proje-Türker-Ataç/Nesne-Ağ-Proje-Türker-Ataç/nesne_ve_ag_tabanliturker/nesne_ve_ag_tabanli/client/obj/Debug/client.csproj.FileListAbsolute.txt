@@ -1,0 +1,60 @@
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanli - Kopya\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\abdul\Desktop\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker3\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe.config
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\bin\Debug\client.pdb
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Form1.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.exe
+C:\Users\atact\OneDrive\Masaüstü\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanliturker\nesne_ve_ag_tabanli\client\obj\Debug\client.pdb
